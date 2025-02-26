@@ -1,4 +1,4 @@
-<p align="left"><img src="https://www.runatlantis.io/hero.png" alt="Logo" height="200">
+<p align="center"><img src="https://www.runatlantis.io/hero.png" alt="Logo" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Logo" height="200">
 </p>
 
